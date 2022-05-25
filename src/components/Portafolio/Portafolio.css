@@ -1,0 +1,11 @@
+.main-portafolio {
+    padding: 3rem 4rem;
+}
+
+.portafolio-section {
+    display: grid;
+    grid-template-columns: 30% 30% 30%;
+    grid-template-rows: auto;
+    column-gap: 3rem;
+    row-gap: 2rem;
+} 

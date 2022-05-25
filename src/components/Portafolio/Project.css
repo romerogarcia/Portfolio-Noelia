@@ -1,0 +1,49 @@
+p {
+    font-size: 1rem;
+}   
+
+.item-proj:hover {
+    box-shadow: -12px 10px 0px 0px #F15BB5;
+    -webkit-box-shadow: -12px 10px 0px 0px #F15BB5;
+    -moz-box-shadow: -12px 10px 0px 0px #F15BB5;
+}
+
+.item-header {
+    display: flex;
+    justify-content: space-between;
+    padding: 0 1rem;
+    border: 2px solid #000000;
+    background-color: #FEE440;
+}
+
+.item-bo {
+    border: 2px solid #000;
+    height: 250px;
+}
+
+.item-info {
+    padding: 1rem;
+}
+
+.descripcion {
+    font-size: 0.9rem;
+    margin-bottom: 1rem;
+}
+
+.boton-link-page {
+    display: flex;
+    justify-content: center;
+}
+
+.link-page {
+    background-color: #F15BB5;
+    text-decoration: none;
+    padding: 0.5rem 1rem;
+    border-radius: 25px;
+    color: #000;
+    margin: 0 1rem;
+}
+
+.github {
+    background-color: #FEE440;
+}

@@ -1,0 +1,47 @@
+.main-about {
+    padding: 5rem 4rem;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+}
+
+.box {
+    width: 400px;
+}
+
+.box:hover {
+    box-shadow: -12px 10px 0px 0px rgba(155,93,229,0.75);
+    -webkit-box-shadow: -12px 10px 0px 0px rgba(155,93,229,0.75);
+    -moz-box-shadow: -12px 10px 0px 0px rgba(155,93,229,0.75);
+}
+
+.header {
+    display: flex;
+    padding: 0 1rem;
+    justify-content: space-between;
+    width: 100%;
+    border: 2px solid #000;
+}
+
+.header:hover {
+    background-color: #00F5D4;
+}
+ 
+.perfil-image {
+    width: 400px;
+    border: 2px solid #000;
+}
+
+.info {
+    width: 40%;
+    margin-bottom: 10px;
+    }
+
+span {
+    letter-spacing: 1px;
+}
+
+.skills {
+    margin-top: 2rem;
+    color: violet;
+}

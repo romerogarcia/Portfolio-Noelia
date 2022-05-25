@@ -1,0 +1,53 @@
+:root {
+    --black: #000;
+    --purple: #9B5DE5;
+    --pink: #F15BB5;
+    --yellow: #FEE440;
+    --green: #00F5D4;
+}
+
+nav {
+    padding: 1rem 5rem;
+    display: flex;
+    justify-content: space-between;
+    width: 100%;
+    border-bottom: 2px solid var(--black);
+}
+
+.home {
+    font-size: 1.2rem;
+    font-weight: 600;
+}
+
+ul {
+    display: flex;
+}
+
+li {
+    list-style: none;
+    margin-right: 2rem;
+    font-weight:bold;
+
+}
+
+.home-menu {
+    border-bottom: 3px solid var(--yellow);
+ 
+}
+
+.about {
+    border-bottom: 3px solid var(--purple);
+}
+
+.portafolio {
+    border-bottom: 3px solid var(--pink);
+}
+
+.contact {
+    border-bottom: 3px solid var(--green);
+}
+
+.link {
+    text-decoration: none;
+    color: #000;  
+}

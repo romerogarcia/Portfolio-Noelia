@@ -1,0 +1,51 @@
+:root {
+    --white: #ffffff;
+}
+
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    width: 100%;
+    height: 100vh;
+    font-family: 'Poppins', sans-serif;
+} 
+
+.main-home {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 2rem 5rem;
+}
+
+iframe {
+    width: 512px;
+    height: 512px;
+}
+
+.text p{
+    font-size: 3rem;
+}
+
+.text h1 {
+    font-size: 5rem;
+    font-weight: 600;
+    background: linear-gradient(45deg,  #F15BB5,  #00F5D4 );
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+}
+
+.line-divisor {
+    margin: 0 1rem;
+    font-weight: lighter;
+}
+
+svg {
+    width: 40px;
+    margin-right: 1rem;
+    margin-top: 1rem;
+}
