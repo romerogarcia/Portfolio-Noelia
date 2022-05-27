@@ -59,6 +59,40 @@ const Contact = () => {
           </form>
         </section>
       </main>
+      <footer className="footer">
+        <div className="containerIcons">
+          <ul className="list">
+            <li className="li">
+              <a
+                className="a"
+                href="https://www.linkedin.com/in/noeliaromerogarcia/"
+                target="_blank"
+              >
+                <i class="fa-brands fa-linkedin"></i>
+              </a>
+            </li>
+            <li className="li">
+              <a
+                className="a"
+                href="https://github.com/romerogarcia"
+                target="_blank"
+              >
+                <i class="fa-brands fa-github"></i>
+              </a>
+            </li>
+            <li className="li">
+              <a
+                className="a"
+                href="https://www.instagram.com/bluromero/"
+                target="_blank"
+              >
+                <i class="fa-brands fa-instagram"></i>
+              </a>
+            </li>
+          </ul>
+        </div>
+        <p className="footerText">&copy; 2022 🐱 Noelia Romero García</p>
+      </footer>
     </>
   );
 };

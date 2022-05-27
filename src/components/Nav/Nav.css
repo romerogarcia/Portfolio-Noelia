@@ -32,9 +32,8 @@ li {
 
 .home-menu {
     border-bottom: 3px solid var(--yellow);
- 
+    
 }
-
 .about {
     border-bottom: 3px solid var(--purple);
 }

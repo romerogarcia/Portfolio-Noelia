@@ -12,7 +12,7 @@ function Portafolio() {
       nombre: 'Rick and Morty',
       leng: 'HTML, CSS, JS, API, REACT',
       desc: 'Buscador web de una API sobre los personajes de la serie Rick and Morty, donde podemos filtar por nombre, género y estatus',
-      url: '',
+      url: 'https://romerogarcia.github.io/Rick-and-Morty/',
       github: 'https://github.com/romerogarcia/Rick-and-Morty',
     },
     {
@@ -29,7 +29,7 @@ function Portafolio() {
       nombre: 'Owen Wilson´s WOW',
       leng: 'HTML, CSS, JS, API, REACT',
       desc: 'Buscador web de una API sobre las películas en las que Owen Wilson dice "WOW", donde podemos filtrar por nombre, año y wow.',
-      url: 'http://beta.adalab.es/modulo-3-evaluacion-final-romerogarcia/',
+      url: 'https://romerogarcia.github.io/Owen-Wilson-s-WOW/',
       github: 'https://github.com/romerogarcia/Owen-Wilson-s-WOW',
     },
     {
@@ -37,7 +37,7 @@ function Portafolio() {
       nombre: 'Awesome Profile Cards',
       leng: 'HTML, CSS, JS, Responsive',
       desc: 'Generador de tarjetas personalizadas de contacto profesional, donde podemos añadir nuestros datos, descargar la tarjeta y compartirla en redes sociales.',
-      url: 'http://beta.adalab.es/project-promo-p-module-2-team-1/',
+      url: 'https://romerogarcia.github.io/Awesome-Profile-Cards/',
       github: 'https://github.com/romerogarcia/Awesome-Profile-Cards',
     },
     {
@@ -45,7 +45,7 @@ function Portafolio() {
       nombre: 'Cocktail Finder',
       leng: 'HTML, CSS, JS',
       desc: 'Buscador web desde una API de Cócteles, donde puedes filtrar por nombre y añadir a una lista de favoritos los cócteles que más te gusten.',
-      url: 'http://beta.adalab.es/modulo-2-evaluacion-final-romerogarcia/',
+      url: 'https://romerogarcia.github.io/Cocktail-finder/',
       github: 'https://github.com/romerogarcia/Cocktail-finder',
     },
     {
@@ -53,7 +53,7 @@ function Portafolio() {
       nombre: 'Open Spaces',
       leng: 'HTML, CSS, Diseño Responsive',
       desc: 'Maquetación web de la empresa Open Spaces especializada en la venta online de productos para el hogar.',
-      url: 'http://beta.adalab.es/modulo-1-evaluacion-final-romerogarcia/',
+      url: 'https://romerogarcia.github.io/Open-Spaces/',
       github: 'https://github.com/romerogarcia/Open-Spaces',
     },
     {
@@ -61,7 +61,7 @@ function Portafolio() {
       nombre: 'The Walking Coders',
       leng: 'HTML, CSS, Diseño Responsive',
       desc: 'Maquetación de web de contacto de un equipo de trabajo de desarrolladoras frontend.',
-      url: 'https://beta.adalab.es/project-promo-p-module-1-team-6/',
+      url: 'https://romerogarcia.github.io/The-Walking-Coders/',
       github: 'https://github.com/romerogarcia/The-Walking-Coders',
     },
   ];
