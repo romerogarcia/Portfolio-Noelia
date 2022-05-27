@@ -12,7 +12,7 @@ import './index.css';
 
 ReactDOM.render(
   <BrowserRouter>
-    <Routes basename={process.env.PUBLIC_URL}>
+    <Routes>
       <Route path="/" element={<Home />} />
       <Route path="about" element={<About />} />
       <Route path="portafolio" element={<Portafolio />} />
