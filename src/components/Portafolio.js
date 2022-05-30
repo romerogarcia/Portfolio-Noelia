@@ -1,9 +1,9 @@
 import React from 'react';
 
-import Nav from '../Nav/Nav';
+import Nav from './Nav';
 import Project from './Project';
 
-import './Portafolio.css';
+import '../styles/Portafolio.css';
 
 function Portafolio() {
   const proyectos = [

@@ -1,9 +1,9 @@
 import React, { useRef } from 'react';
-import Nav from '../Nav/Nav';
+import Nav from './Nav';
 
 import emailjs from 'emailjs-com';
 
-import './Contact.css';
+import '../styles/Contact.css';
 
 const Contact = () => {
   const form = useRef();

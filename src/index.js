@@ -4,11 +4,11 @@ import ReactDOM from 'react-dom';
 import { BrowserRouter, Routes, Route } from 'react-router-dom';
 
 import Home from './App.js';
-import About from './components/About/About.js';
-import Portafolio from './components/Portafolio/Portafolio';
-import Contact from './components/Contact/Contact.js';
+import About from './components/About.js';
+import Portafolio from './components/Portafolio';
+import Contact from './components/Contact.js';
 
-import './index.css';
+import './styles/index.css';
 const basename =
   document.querySelector('base')?.getAttribute('href') ??
   'https://romerogarcia.github.io/Portfolio-Noelia/';

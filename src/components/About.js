@@ -1,8 +1,8 @@
 import React from 'react';
-import Nav from '../Nav/Nav.js';
-import perfil from '../../images/profile-image.jpg';
+import Nav from './Nav.js';
+import perfil from '../images/profile-image.jpg';
 
-import '../About/About.css';
+import '../styles/About.css';
 
 function About() {
   return (
