@@ -9,11 +9,9 @@ import Portafolio from './components/Portafolio';
 import Contact from './components/Contact.js';
 
 import './styles/index.css';
-const basename =
-  document.querySelector('base')?.getAttribute('href') ??
-  'https://romerogarcia.github.io/Portfolio-Noelia/';
+
 ReactDOM.render(
-  <BrowserRouter basename={basename}>
+  <BrowserRouter>
     <Routes>
       <Route path="/" element={<Home />} />
       <Route path="about" element={<About />} />
