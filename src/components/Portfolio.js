@@ -3,7 +3,7 @@ import React from 'react';
 import Nav from './Nav';
 import Project from './Project';
 
-import '../styles/Portafolio.css';
+import '../styles/Portfolio.css';
 
 function Portafolio() {
   const proyectos = [
@@ -35,11 +35,12 @@ function Portafolio() {
     {
       id: 4,
       nombre: 'Awesome Profile Cards',
-      leng: 'HTML, CSS, JS, Responsive',
+      leng: 'HTML, CSS, JS,  Diseño Responsive',
       desc: 'Generador de tarjetas personalizadas de contacto profesional, donde podemos añadir nuestros datos, descargar la tarjeta y compartirla en redes sociales.',
       url: 'https://romerogarcia.github.io/Awesome-Profile-Cards/',
       github: 'https://github.com/romerogarcia/Awesome-Profile-Cards',
     },
+
     {
       id: 5,
       nombre: 'Cocktail Finder',
@@ -48,8 +49,18 @@ function Portafolio() {
       url: 'https://romerogarcia.github.io/Cocktail-finder/',
       github: 'https://github.com/romerogarcia/Cocktail-finder',
     },
+
     {
       id: 6,
+      nombre: 'Friends Quotes',
+      leng: 'HTML, CSS, JS',
+      desc: 'Maquetación desde una API de Friends, donde puedes filtrar por frase y personaje, y además, añadir una nueva frase.',
+      url: 'https://romerogarcia.github.io/Friends-Quotes/',
+      github: 'https://github.com/romerogarcia/Friends-Quotes',
+    },
+
+    {
+      id: 7,
       nombre: 'Open Spaces',
       leng: 'HTML, CSS, Diseño Responsive',
       desc: 'Maquetación web de la empresa Open Spaces especializada en la venta online de productos para el hogar.',
@@ -57,7 +68,7 @@ function Portafolio() {
       github: 'https://github.com/romerogarcia/Open-Spaces',
     },
     {
-      id: 7,
+      id: 8,
       nombre: 'The Walking Coders',
       leng: 'HTML, CSS, Diseño Responsive',
       desc: 'Maquetación de web de contacto de un equipo de trabajo de desarrolladoras frontend.',

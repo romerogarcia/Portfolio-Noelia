@@ -16,7 +16,7 @@ function Nav() {
           <li className="about">Sobre mi</li>
         </Link>
         <Link className="link" to="/portafolio">
-          <li className="portafolio">Portafolio</li>
+          <li className="portafolio">Proyectos</li>
         </Link>
         <Link className="link" to="/contact">
           <li className="contact">Contacto</li>
