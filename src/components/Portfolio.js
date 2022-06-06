@@ -9,6 +9,14 @@ function Portafolio() {
   const proyectos = [
     {
       id: 1,
+      nombre: 'Bubble',
+      leng: 'HTML, CSS, Diseño Responsive',
+      desc: 'Maquetación web de la empresa Bubble, especializada en la venta online de bebidas bubble tea',
+      url: 'https://romerogarcia.github.io/Bubble/',
+      github: 'https://github.com/romerogarcia/Bubble',
+    },
+    {
+      id: 2,
       nombre: 'Rick and Morty',
       leng: 'HTML, CSS, JS, API, REACT',
       desc: 'Buscador web de una API sobre los personajes de la serie Rick and Morty, donde podemos filtar por nombre, género y estatus',
@@ -16,7 +24,7 @@ function Portafolio() {
       github: 'https://github.com/romerogarcia/Rick-and-Morty',
     },
     {
-      id: 2,
+      id: 3,
       nombre: 'Refactorización: Awesome Profile Cards',
       leng: 'Node JS y SQL',
       desc: 'Refactorización con React de un proyecto heredado. Creación de un servidor básico, una base de datos y publicación en Heroku',
@@ -25,7 +33,7 @@ function Portafolio() {
         'https://github.com/romerogarcia/Refactoring-Awesome-Profile-Cards',
     },
     {
-      id: 3,
+      id: 4,
       nombre: 'Owen Wilson´s WOW',
       leng: 'HTML, CSS, JS, API, REACT',
       desc: 'Buscador web de una API sobre las películas en las que Owen Wilson dice "WOW", donde podemos filtrar por nombre, año y wow.',
@@ -33,7 +41,7 @@ function Portafolio() {
       github: 'https://github.com/romerogarcia/Owen-Wilson-s-WOW',
     },
     {
-      id: 4,
+      id: 5,
       nombre: 'Awesome Profile Cards',
       leng: 'HTML, CSS, JS,  Diseño Responsive',
       desc: 'Generador de tarjetas personalizadas de contacto profesional, donde podemos añadir nuestros datos, descargar la tarjeta y compartirla en redes sociales.',
@@ -42,7 +50,7 @@ function Portafolio() {
     },
 
     {
-      id: 5,
+      id: 6,
       nombre: 'Cocktail Finder',
       leng: 'HTML, CSS, JS',
       desc: 'Buscador web desde una API de Cócteles, donde puedes filtrar por nombre y añadir a una lista de favoritos los cócteles que más te gusten.',
@@ -51,7 +59,7 @@ function Portafolio() {
     },
 
     {
-      id: 6,
+      id: 7,
       nombre: 'Friends Quotes',
       leng: 'HTML, CSS, JS',
       desc: 'Maquetación desde una API de Friends, donde puedes filtrar por frase y personaje, y además, añadir una nueva frase.',
@@ -60,7 +68,7 @@ function Portafolio() {
     },
 
     {
-      id: 7,
+      id: 8,
       nombre: 'Open Spaces',
       leng: 'HTML, CSS, Diseño Responsive',
       desc: 'Maquetación web de la empresa Open Spaces especializada en la venta online de productos para el hogar.',
@@ -68,7 +76,7 @@ function Portafolio() {
       github: 'https://github.com/romerogarcia/Open-Spaces',
     },
     {
-      id: 8,
+      id: 9,
       nombre: 'The Walking Coders',
       leng: 'HTML, CSS, Diseño Responsive',
       desc: 'Maquetación de web de contacto de un equipo de trabajo de desarrolladoras frontend.',
