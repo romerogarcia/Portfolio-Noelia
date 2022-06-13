@@ -20,12 +20,11 @@ function About() {
         <section className="info">
           <p>
             Decidí reinventar mi perfil profesional basado en el desarrollo e
-            integración social, para enfocarme en el campo tecnológico dentro
-            del ámbito de la programación web.
+            integración social, para enfocarme en la programación web .
             <p>
-              Soy una persona muy proactiva y tenaz en lo que me propongo. Me
-              encanta tener nuevos retos y desafios, algo que encuentro a diario
-              en la programación; siempre hay algo nuevo que aprender o mejorar.
+              Soy una persona muy proactiva, responsable y tenaz en lo que me
+              propongo. Me encanta tener nuevos retos y desafios, algo que
+              encuentro a diario en la programación.
             </p>
           </p>
           <div className="skills">

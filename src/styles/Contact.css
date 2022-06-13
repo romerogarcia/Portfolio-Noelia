@@ -19,7 +19,7 @@
   text-align: left;
   background-color: #fff;
   padding: 1rem 3rem;
-  border-radius: 20px;
+  border-radius: 30px;
 }
 
 .contact-form h1 {
@@ -50,6 +50,7 @@ input:focus {
 label {
   font-weight: 600;
   font-size: 0.9rem;
+  border: none;
 }
 
 textarea {

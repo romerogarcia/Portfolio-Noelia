@@ -35,6 +35,8 @@
 .info {
     width: 40%;
     margin-bottom: 10px;
+    text-align: justify;
+    
     }
 
 span {
@@ -45,3 +47,4 @@ span {
     margin-top: 2rem;
     color: violet;
 }
+
