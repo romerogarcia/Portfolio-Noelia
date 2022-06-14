@@ -24,7 +24,7 @@ function Project(props) {
               target="_blank"
               rel="noreferrer"
             >
-              Ver página
+              View website
             </a>
             <a
               className="link-page github"

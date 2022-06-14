@@ -13,7 +13,7 @@ p {
     justify-content: space-between;
     padding: 0 1rem;
     border: 2px solid #000000;
-    background-color: #FEE440;
+    background-color: #fee540e3;
 }
 
 .item-bo {
@@ -36,7 +36,7 @@ p {
 }
 
 .link-page {
-    background-color: #F15BB5;
+    background-color: #f15bb5cb;
     text-decoration: none;
     padding: 0.5rem 1rem;
     border-radius: 25px;
@@ -45,5 +45,5 @@ p {
 }
 
 .github {
-    background-color: #FEE440;
+    background-color:#9a5de563;;
 }

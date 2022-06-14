@@ -8,7 +8,7 @@ function App() {
       <Nav />
       <main className="main-home">
         <div className="text">
-          <p>Hola, soy</p>
+          <p>Hello! I'm</p>
           <h1>Noelia Romero</h1>
           <h2>Frontend Web Developer</h2>
         </div>

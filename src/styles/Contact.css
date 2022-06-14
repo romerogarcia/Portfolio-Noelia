@@ -65,7 +65,7 @@ textarea {
 .btn-submit {
   border: none;
   background-color: #00f5d4;
-  color: #000;
+  color: rgba(0, 0, 0, 0.678);
   padding: 0.8rem 2rem;
   border-radius: 20px;
   cursor: pointer;

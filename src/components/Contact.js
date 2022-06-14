@@ -29,14 +29,14 @@ const Contact = () => {
       <Nav />
       <main className="main-contact">
         <section className="contact-form">
-          <h1>Contacto ✉️</h1>
+          <h1>Contact ✉️</h1>
           <form ref={form} onSubmit={enviarEmail}>
-            <label>Nombre</label>
+            <label>Name</label>
             <br />
             <input
               type="text"
               name="user_name"
-              placeholder="Beatriz R."
+              placeholder="May"
               required="required"
             />
             <br />
@@ -46,16 +46,16 @@ const Contact = () => {
             <input
               type="email"
               name="user_email"
-              placeholder="ejemplo@email.com"
+              placeholder="May@email.com"
               required="required"
             />
             <br />
 
-            <label>Mensaje</label>
+            <label>Message</label>
             <br />
             <textarea name="message" required="required" />
             <br />
-            <input className="btn-submit" type="submit" />
+            <input className="btn-submit" type="submit" value="Submit" />
           </form>
         </section>
       </main>
